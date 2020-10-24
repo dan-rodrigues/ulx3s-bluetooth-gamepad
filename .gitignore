@@ -9,3 +9,7 @@
 /*.svf
 /*.config
 
+# Local
+
+/env.sh
+
